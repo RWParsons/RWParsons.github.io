@@ -13,4 +13,4 @@ nav_order: 2
 
 ### Acknowledgements
 
-Made using [this](https://www.overleaf.com/latex/templates/modular-resume/kyghjmzkfzwb) template by Peter Zhang
+I made this using Peter Zhang's [template](https://www.overleaf.com/latex/templates/modular-resume/kyghjmzkfzwb). 
