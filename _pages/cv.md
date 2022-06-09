@@ -11,6 +11,6 @@ nav_order: 2
 - [the academic one](https://raw.githubusercontent.com/RWParsons/modularCV/main/resume-academic/Rex_Parsons_Resume.pdf)
 
 
-### Acknowledgements
+#### Acknowledgements
 
-I made this using Peter Zhang's [template](https://www.overleaf.com/latex/templates/modular-resume/kyghjmzkfzwb). 
+I made this using Peter Zhang's [template](https://github.com/petezh/Modular-Resume). 

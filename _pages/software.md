@@ -19,5 +19,5 @@ Allows users to quickly apply individual or multiple metrics to evaluate Monte C
 
 ### [{DSSP}](https://cran.r-project.org/web/packages/DSSP/index.html)
 
-Draw samples from the direct sampling spatial prior model as described in G. White, D. Sun, P. Speckman (2019) <[arXiv:1906.05575](https://arxiv.org/abs/1906.05575)>. The basic model assumes a Gaussian likelihood and derives a spatial prior based on thin-plate splines..
+Draw samples from the direct sampling spatial prior model as described in G. White, D. Sun, P. Speckman (2019) <[arXiv:1906.05575](https://arxiv.org/abs/1906.05575)>. The basic model assumes a Gaussian likelihood and derives a spatial prior based on thin-plate splines.
 

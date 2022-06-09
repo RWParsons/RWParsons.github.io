@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently a PhD Candidate at [AusHSI](https://www.aushsi.org.au/). My project involves clinical prediction model development and I'm working on prognostic models for inpatient falls using integrated electronical medical records data from Metro South Health.
+I'm currently a PhD Candidate at [AusHSI](https://www.aushsi.org.au/). My project involves clinical prediction model development. Specifically, I'm working on prognostic models for inpatient falls using integrated electronical medical records data from Metro South Health.
 
 I've also been involved with a range of Research Assistant roles at QUT while studying. Most recently I've worked on:
 
