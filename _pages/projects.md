@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: 
+title: projects and talks
 description: 
 nav: true
 nav_order: 6
