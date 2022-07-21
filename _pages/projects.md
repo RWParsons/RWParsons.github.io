@@ -9,6 +9,13 @@ nav_order: 6
 
 # Talks
 
+#### Impact Makers: Cost effectiveness-informed cutpoints for clinical prediction models (2022-07-15)
+
+Presentation on recent PhD work where I propose a cutpoint selection method that maximises the net monetary benefit of a clinical prediction model.
+
+[Code](https://github.com/RWParsons/im-2022-presentation) and [slides](https://aushsi.shinyapps.io/im-22-presentation/)
+
+
 #### Using shiny apps for effectively communicating research results to a broad audiencence (2022-06-17)
 
 Presentation to the Center For Data Science at QUT about the basics of shiny app development and how they can be useful to researchers.
