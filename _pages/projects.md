@@ -9,11 +9,18 @@ nav_order: 6
 
 # Talks
 
+#### Statistical Society of Australia QLD Branch Meeting: Considering patient outcomes and healthcare costs when obtaining prediction model cutpoints may improve value-based care (2020-08-03)
+
+Presented on recent PhD work regarding both cutpoint selection (including work presented at Impact Makers) and a new wrapper R package ([predictNMB](https://github.com/RWParsons/predictNMB)) to simulate clinical prediction models, evaluating their net monetary benefit.
+
+[Code](https://github.com/RWParsons/ssa-qld-talk-august22) and [live slides](https://aushsi.shinyapps.io/ssa-qld-presentation-aug22/)
+
+
 #### Impact Makers: Cost effectiveness-informed cutpoints for clinical prediction models (2022-07-15)
 
 Presentation on recent PhD work where I propose a cutpoint selection method that maximises the net monetary benefit of a clinical prediction model.
 
-[Code](https://github.com/RWParsons/im-2022-presentation) and [slides](https://aushsi.shinyapps.io/im-22-presentation/)
+[Code](https://github.com/RWParsons/im-2022-presentation) and [live slides](https://aushsi.shinyapps.io/im-22-presentation/)
 
 
 #### Using shiny apps for effectively communicating research results to a broad audiencence (2022-06-17)
@@ -47,4 +54,4 @@ I've been fortunate enough for this work to get some interest adn uptake. Since 
 
 
 [^1]: <https://doi.org/10.1016/j.jtherbio.2021.102983> 
-[^2]: <https://doi.org/10.1101/2022.04.28.489909>
+[^2]: <https://doi.org/10.7554/eLife.79405>
