@@ -9,6 +9,10 @@ nav_order: 4
 
 I like to develop R packages.
 
+### [{predictNMB}](https://rwparsons.github.io/predictNMB/)
+
+Estimates when and where a model-guided treatment strategy may outperform a treat-all or treat-none approach by Monte Carlo simulation and evaluation of the Net Monetary Benefit (NMB).
+
 ### [{circacompare}](https://cran.r-project.org/web/packages/circacompare/index.html)
 
 Uses non-linear regression to statistically compare two circadian rhythms. Groups are only compared if both are rhythmic (amplitude is non-zero). Performs analyses regarding mesor, phase, and amplitude, reporting on estimates and statistical differences, for each, between groups. Details can be found in Parsons et al (2020) <doi:[10.1093/bioinformatics/btz730](https://doi.org/10.1093/bioinformatics/btz730)>.
