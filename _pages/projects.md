@@ -9,7 +9,7 @@ nav_order: 6
 
 # Talks
 
-#### Statistical Society of Australia QLD Branch Meeting: Considering patient outcomes and healthcare costs when obtaining prediction model cutpoints may improve value-based care (2020-08-03)
+#### Statistical Society of Australia QLD Branch Meeting: Considering patient outcomes and healthcare costs when obtaining prediction model cutpoints may improve value-based care (2022-08-03)
 
 Presented on recent PhD work regarding both cutpoint selection (including work presented at Impact Makers) and a new wrapper R package ([predictNMB](https://github.com/RWParsons/predictNMB)) to simulate clinical prediction models, evaluating their net monetary benefit.
 
@@ -50,8 +50,10 @@ I'm currently authoring an online book (<https://rwparsons.github.io/interactive
 My honours project was interested in circadian rhythms and neuroanatomy. I ended up getting more interested in what methods we could use to compare circadian characteristics between two groups. This led to the development of CircaCompare (published in *[Bioinformatics](https://doi.org/10.1093/bioinformatics/btz730)*), which is accompanied by an [R package](https://cran.r-project.org/web/packages/circacompare/index.html), a [shiny app](https://rwparsons.shinyapps.io/circacompare/), and an implementation in [python](https://github.com/RWParsons/circacompare_py).
 
 
-I've been fortunate enough for this work to get some interest adn uptake. Since then, I've collaborated with groups at The University of Western Australia[^1], University of Lübeck[^2], and Maastricht University in a range of different biomedical research projects.
+I've been fortunate enough for this work to get some interest adn uptake. Since then, I've collaborated with groups at The University of Western Australia[^1], University of Lübeck[^2], Maastricht University[^3], and University of Saskatchewan[^4] in a range of different biomedical research projects.
 
 
 [^1]: <https://doi.org/10.1016/j.jtherbio.2021.102983> 
 [^2]: <https://doi.org/10.7554/eLife.79405>
+[^3]: <https://doi.org/10.1016/j.celrep.2022.111786>
+[^4]: <https://doi.org/10.3389/fgene.2023.1026601>
