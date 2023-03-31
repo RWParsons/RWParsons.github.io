@@ -9,7 +9,7 @@ nav_order: 4
 
 I like to develop R packages.
 
-### [{predictNMB}](https://rwparsons.github.io/predictNMB/)
+### [{predictNMB}](https://docs.ropensci.org/predictNMB/)
 
 Estimates when and where a model-guided treatment strategy may outperform a treat-all or treat-none approach by Monte Carlo simulation and evaluation of the Net Monetary Benefit (NMB).
 
