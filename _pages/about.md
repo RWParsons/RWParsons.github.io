@@ -7,8 +7,6 @@ subtitle: PhD Candidate and Senior Research Assistant at <a href="https://www.au
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Brisbane, Australia</p>
 
 # news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,6 +20,6 @@ I've also been involved with a range of Research Assistant roles at QUT while st
 * estimating and [visualising](https://access.healthequity.link/) (in)equity of access to traumatic brain injury care across Queensland. (Supervised by Dr Susanna Cramb)
 * developing [DSSP](https://cran.r-project.org/web/packages/DSSP/index.html): an R-package to perform direct sampling for Bayesian spatial models. (Supervised by A/Prof Gentry White)
 
-In general, I enjoy learning new things, programming with R and python, and applied problems relating to healthcare and biomedical research. 
+In general, I enjoy learning new things, programming with R and python, and applied problems relating to healthcare and biomedical research.
 
 Outside of research, I enjoy riding motorbikes, filter coffee and strength training.
