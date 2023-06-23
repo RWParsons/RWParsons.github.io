@@ -9,8 +9,9 @@ nav_order: 6
 
 # Talks
 
-#### R-Medicine 2023 - predictNMB: An R Package To Estimate if or When a Clinical Prediction Model Is Worthwhile (2023-06-08)
+#### R-Medicine 2023 - predictNMB: An R Package To Estimate if or When a Clinical Prediction Model Is Worthwhile (2023-06-08) 
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bc79ca5b-5d10-4a38-80f7-f5fe77400302" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 Presented on predictNMB R package developed as part of PhD work. 1-hour demo format with a short presentation followed by live coding.
 
 [Code](https://github.com/RWParsons/rmed2023-predictNMB), [live slides](https://rwparsons.github.io/rmed2023-predictNMB), and [video](https://www.youtube.com/@RConsortium/videos) (eventually)
