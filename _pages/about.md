@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate and Senior Research Assistant at <a href="https://www.aushsi.org.au/">AusHSI, QUT</a>
+subtitle: Data Scientist at <a href="https://healthpolicy.com.au/">Health Policy Analysis</a> & PhD Candidate and Senior Research Assistant at <a href="https://www.aushsi.org.au/">AusHSI, QUT</a>
 
 profile:
   align: right
