@@ -11,7 +11,7 @@ I like to develop R packages.
 
 ### [{predictNMB}](https://docs.ropensci.org/predictNMB/)
 
-Estimates when and where a model-guided treatment strategy may outperform a treat-all or treat-none approach by Monte Carlo simulation and evaluation of the Net Monetary Benefit (NMB).
+Estimates when and where a model-guided treatment strategy may outperform a treat-all or treat-none approach by Monte Carlo simulation and evaluation of the Net Monetary Benefit (NMB). predictNMB has been reviewed by [rOpenSci](https://docs.ropensci.org/predictNMB/) and has a publication in the [Journal of Open Source Software](https://doi.org/10.21105/joss.05328). It was awarded runner-up for the 2023 Venables Award (open source software for data analytics).
 
 ### [{circacompare}](https://cran.r-project.org/web/packages/circacompare/index.html)
 

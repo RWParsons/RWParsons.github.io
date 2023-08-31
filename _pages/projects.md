@@ -9,6 +9,12 @@ nav_order: 6
 
 # Talks
 
+#### Statistical Society of Australia Venables Award Seminar: predictNMB (2023-08-24)
+
+[predictNMB](https://docs.ropensci.org/predictNMB/) was awarded runner-up for the annual [Venables award](https://statsocaus.github.io/venables-award/) (open source software for data analytics). I was awarded $1000 and gave a talk on the predictNMB for the Statistical Society of Australia.
+
+[Presentation repo](https://github.com/RWParsons/venables-award-2023-preso) and [live slides](https://rwparsons.github.io/venables-award-2023-preso/)
+
 #### R-Medicine 2023 - predictNMB: An R Package To Estimate if or When a Clinical Prediction Model Is Worthwhile (2023-06-08) 
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bc79ca5b-5d10-4a38-80f7-f5fe77400302" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
@@ -18,7 +24,7 @@ Presented on predictNMB R package developed as part of PhD work. 1-hour demo for
 
 #### Statistical Society of Australia QLD Branch Meeting: Considering patient outcomes and healthcare costs when obtaining prediction model cutpoints may improve value-based care (2022-08-03)
 
-Presented on recent PhD work regarding both cutpoint selection (including work presented at Impact Makers) and a new wrapper R package ([predictNMB](https://github.com/RWParsons/predictNMB)) to simulate clinical prediction models, evaluating their net monetary benefit.
+Presented on recent PhD work regarding both cutpoint selection (including work presented at Impact Makers) and a new wrapper R package ([predictNMB](https://docs.ropensci.org/predictNMB/)) to simulate clinical prediction models, evaluating their net monetary benefit.
 
 [Code](https://github.com/RWParsons/ssa-qld-talk-august22) and [live slides](https://aushsi.shinyapps.io/ssa-qld-presentation-aug22/)
 
