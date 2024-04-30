@@ -50,8 +50,6 @@ iTRAQI (injury Treatment and Rehabilitation Accessibility Queensland Index) is a
 
 I worked on this project as a Senior Research Assistant, performing the analyses and [shiny app](https://access.healthequity.link/) development.
 
-I'm currently authoring an online book (<https://rwparsons.github.io/interactive-maps/>) that describes the methods we used to perform the spatial data analyses and develop the shiny app.
-
 [shiny app code](https://github.com/RWParsons/iTRAQI_app)
 
 #### Circadian rhythms
@@ -60,7 +58,10 @@ My honours project was interested in circadian rhythms and neuroanatomy. I ended
 
 I've been fortunate enough for this work to get some interest adn uptake. Since then, I've collaborated with groups at The University of Western Australia[^1], University of Lübeck[^2], Maastricht University[^3], and University of Saskatchewan[^4] in a range of different biomedical research projects.
 
+Recently, I developed another R package ([GLMMcosinor](https://github.com/ropensci/GLMMcosinor)) which fits a cosinor model using the glmmTMB framework to extend it's flexibility to GLMMs[^5]. 
+
 [^1]: <https://doi.org/10.1016/j.jtherbio.2021.102983>
 [^2]: <https://doi.org/10.7554/eLife.79405>
 [^3]: <https://doi.org/10.1016/j.celrep.2022.111786>
 [^4]: <https://doi.org/10.3389/fgene.2023.1026601>
+[^5]: <https://doi.org/10.1101/2024.04.10.588934>

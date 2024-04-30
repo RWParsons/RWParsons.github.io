@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-I like to develop R packages. Here is a list of packages I've authored:
+I like to develop R packages. Here are the packages I've authored:
 
 ### [{hpa.spatial}](https://healthpolicyanalysis.github.io/hpa.spatial)
 
