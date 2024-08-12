@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist at <a href="https://healthpolicy.com.au/">Health Policy Analysis</a> & PhD Candidate at <a href="https://www.aushsi.org.au/">AusHSI, QUT</a>
+subtitle: Senior Data Scientist at <a href="https://nousgroup.com/people/rex-parsons?r=AU">Nous group</a> & PhD Candidate at <a href="https://www.aushsi.org.au/">AusHSI, QUT</a>
 
 profile:
   align: right
@@ -13,9 +13,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently a Data Scientist at [Health Policy Analysis](https://healthpolicy.com.au/) and PhD Candidate at [AusHSI](https://www.aushsi.org.au/). 
+I'm currently a Data Scientist at [Nous group](https://nousgroup.com/people/rex-parsons?r=AU) and PhD Candidate at [AusHSI](https://www.aushsi.org.au/). 
 
-Within my PhD, I'm worked on prognostic models for inpatient falls using electronical medical records data from Metro South Health and developed software to evaluate/optimise clinical prediction models through the lens of value-based care. At HPA, I spend most of my time either analysing health data or developing Shiny apps and R packages.
+Within my PhD, I've worked on prognostic models for inpatient falls using electronical medical records data from Metro South Health and developed software to evaluate/optimise clinical prediction models through the lens of value-based care. At Nous, I spend most of my time either analysing health data for evaluations or developing Shiny apps and R packages for both client facing or internal use.
 
 In general, I enjoy learning new things, programming with R and python, and applied problems relating to healthcare and biomedical research.
 
