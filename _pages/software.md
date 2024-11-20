@@ -9,6 +9,9 @@ nav_order: 4
 
 I like to develop R packages. Here are the packages I've authored:
 
+### [{readaihw}](https://github.com/RWParsons/readaihw)
+
+I, like many researchers and consultants working in the Australian healthcare setor, often have to access hospital data from AIHW. This R package accesses data via the MyHospitals API, saving you the pain involved with finding, downloading, reading, cleaning the many spreadsheets from the AIHW for your projects.
 
 ### [{hpa.setup}](https://github.com/healthpolicyanalysis/hpa.setup)
 
