@@ -2,11 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: false
 nav_order: 5
 ---
-
 
 ### MXN500 Statistical Data Analysis, QUT
 

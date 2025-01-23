@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: projects and talks
-description: 
+description:
 nav: FALSE
 nav_order: 3
 display_categories: [work, fun]
