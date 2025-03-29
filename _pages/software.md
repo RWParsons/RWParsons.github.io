@@ -31,7 +31,7 @@ Estimates when and where a model-guided treatment strategy may outperform a trea
 
 ### [{circacompare}](https://cran.r-project.org/web/packages/circacompare/index.html)
 
-Uses non-linear regression to statistically compare two circadian rhythms. Groups are only compared if both are rhythmic (amplitude is non-zero). Performs analyses regarding mesor, phase, and amplitude, reporting on estimates and statistical differences, for each, between groups. Details can be found in Parsons et al (2020) <[doi:10.1093/bioinformatics/btz730](https://academic.oup.com/bioinformatics/article/36/4/1208/5582266)>.
+Uses non-linear regression to statistically compare two circadian rhythms. Groups are only compared if both are rhythmic (amplitude is non-zero). Performs analyses regarding mesor, phase, and amplitude, reporting on estimates and statistical differences, for each, between groups. Details can be found in Parsons et al (2020) <[doi:10.1093/bioinformatics/btz730](https://doi.org/10.1093/bioinformatics/btz730)>.
 
 ### [{simMetric}](https://cran.r-project.org/web/packages/simMetric/index.html)
 
